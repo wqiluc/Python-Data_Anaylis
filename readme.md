@@ -103,8 +103,7 @@ style="vertical-align:middle; margin-left:5px;"/>
 <p>
 Você foi contratado por uma empresa que possui <strong>mais de 800 mil clientes</strong> para desenvolver um projeto de
 <strong>análise de dados</strong>. A empresa percebeu que uma grande parte da sua base é composta por
-<strong>clientes inativos</strong>, ou seja, clientes que já cancelaram <br>
-o serviço.🚨
+<strong>clientes inativos</strong>, ou seja, clientes que já cancelaram o serviço.🚨
 </p>
 
 <p>
