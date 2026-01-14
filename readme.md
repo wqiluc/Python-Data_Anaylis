@@ -144,13 +144,13 @@ e aumentando seus resultados. 📈🧠
 
 <div align="left">
 <p>
-1️⃣ Importação das bibliotecas e carregamento da base de dados (<strong>cancelamentos.csv</strong>)<br>
-2️⃣ Tratamento dos dados (valores nulos, formatação, tipos de dados)<br>
-3️⃣ Análise exploratória dos clientes<br>
-4️⃣ Criação de métricas de cancelamento (churn)<br>
-5️⃣ Visualização dos dados com gráficos interativos<br>
-6️⃣ Identificação de padrões e causas do cancelamento<br>
-7️⃣ Geração de insights e recomendações para a empresa
+1️⃣ Importação das bibliotecas e carregamento da base de dados (<strong>cancelamentos.csv</strong>);<br>
+2️⃣ Tratamento dos dados (valores nulos, formatação, tipos de dados);<br>
+3️⃣ Análise exploratória dos clientes;<br>
+4️⃣ Criação de métricas de cancelamento (churn);<br>
+5️⃣ Visualização dos dados com gráficos interativos;<br>
+6️⃣ Identificação de padrões e causas do cancelamento; e <br>
+7️⃣ Geração de insights e recomendações para a empresa.
 </p>
 </div>
 
