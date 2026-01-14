@@ -74,8 +74,9 @@ extrair informações relevantes, identificar padrões e apoiar a tomada de deci
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenPyXL-A569BD?style=for-the-badge&logo=python&logoColor=000000"/>
 <img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=000000"/>
-
+<img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=000000"/> <br>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">📁 Estrutura do Projeto: </h2>
